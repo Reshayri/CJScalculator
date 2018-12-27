@@ -1,1 +1,1 @@
-# CJScalculator.github.io
+# CJScalculator
